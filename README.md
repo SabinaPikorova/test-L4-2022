@@ -7,3 +7,5 @@ Slouží pouze k testování
 * Pushování
 * Dokumentaci
 * Synchronizaci
+
+*Tento text bude italic*
