@@ -2,7 +2,7 @@
 
 Slouží pouze k testování
 
-## Můžu zkoušet: ##
+## Můžu zkoušet:
 
 * Pushování
 * Dokumentaci
